@@ -1,0 +1,576 @@
+{
+    "suppliers": {
+        "1": {
+            "n_parts": 6
+        },
+        "2": {
+            "n_parts": 6
+        },
+        "3": {
+            "n_parts": 7
+        },
+        "4": {
+            "n_parts": 7
+        },
+        "5": {
+            "n_parts": 8
+        },
+        "6": {
+            "n_parts": 9
+        },
+        "7": {
+            "n_parts": 10
+        },
+        "8": {
+            "n_parts": 11
+        },
+        "9": {
+            "n_parts": 11
+        }
+    },
+    "parts": {
+        "1": {
+            "delivery_day_pattern": [
+                "Wed",
+                "Fri"
+            ]
+        },
+        "2": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "3": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Wed",
+                "Fri"
+            ]
+        },
+        "4": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Thu"
+            ]
+        },
+        "5": {
+            "delivery_day_pattern": [
+                "Thu",
+                "Fri"
+            ]
+        },
+        "6": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "7": {
+            "delivery_day_pattern": [
+                "Fri"
+            ]
+        },
+        "8": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "9": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Wed",
+                "Thu"
+            ]
+        },
+        "10": {
+            "delivery_day_pattern": [
+                "Fri"
+            ]
+        },
+        "11": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "12": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "13": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "14": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Fri"
+            ]
+        },
+        "15": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "16": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "17": {
+            "delivery_day_pattern": [
+                "Mon"
+            ]
+        },
+        "18": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "19": {
+            "delivery_day_pattern": [
+                "Mon"
+            ]
+        },
+        "20": {
+            "delivery_day_pattern": [
+                "Tue"
+            ]
+        },
+        "21": {
+            "delivery_day_pattern": [
+                "Wed"
+            ]
+        },
+        "22": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "23": {
+            "delivery_day_pattern": [
+                "Thu"
+            ]
+        },
+        "24": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Wed",
+                "Thu"
+            ]
+        },
+        "25": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "26": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "27": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Fri"
+            ]
+        },
+        "28": {
+            "delivery_day_pattern": [
+                "Tue"
+            ]
+        },
+        "29": {
+            "delivery_day_pattern": [
+                "Thu",
+                "Fri"
+            ]
+        },
+        "30": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Thu"
+            ]
+        },
+        "31": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "32": {
+            "delivery_day_pattern": [
+                "Fri"
+            ]
+        },
+        "33": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed"
+            ]
+        },
+        "34": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Wed"
+            ]
+        },
+        "35": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "36": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Wed"
+            ]
+        },
+        "37": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Wed",
+                "Fri"
+            ]
+        },
+        "38": {
+            "delivery_day_pattern": [
+                "Thu",
+                "Fri"
+            ]
+        },
+        "39": {
+            "delivery_day_pattern": [
+                "Wed"
+            ]
+        },
+        "40": {
+            "delivery_day_pattern": [
+                "Thu"
+            ]
+        },
+        "41": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "42": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "43": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Thu"
+            ]
+        },
+        "44": {
+            "delivery_day_pattern": [
+                "Fri"
+            ]
+        },
+        "45": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Thu"
+            ]
+        },
+        "46": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "47": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "48": {
+            "delivery_day_pattern": [
+                "Fri"
+            ]
+        },
+        "49": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed"
+            ]
+        },
+        "50": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu"
+            ]
+        },
+        "51": {
+            "delivery_day_pattern": [
+                "Tue"
+            ]
+        },
+        "52": {
+            "delivery_day_pattern": [
+                "Fri"
+            ]
+        },
+        "53": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "54": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "55": {
+            "delivery_day_pattern": [
+                "Wed",
+                "Thu"
+            ]
+        },
+        "56": {
+            "delivery_day_pattern": [
+                "Mon"
+            ]
+        },
+        "57": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Wed"
+            ]
+        },
+        "58": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "59": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "60": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "61": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Wed"
+            ]
+        },
+        "62": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu"
+            ]
+        },
+        "63": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Thu"
+            ]
+        },
+        "64": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Fri"
+            ]
+        },
+        "65": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "66": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "67": {
+            "delivery_day_pattern": [
+                "Tue",
+                "Thu"
+            ]
+        },
+        "68": {
+            "delivery_day_pattern": [
+                "Fri"
+            ]
+        },
+        "69": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "70": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "71": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Thu",
+                "Fri"
+            ]
+        },
+        "72": {
+            "delivery_day_pattern": [
+                "Tue"
+            ]
+        },
+        "73": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed"
+            ]
+        },
+        "74": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed"
+            ]
+        },
+        "75": {
+            "delivery_day_pattern": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ]
+        }
+    },
+    "dispatchers": {
+        "1": {
+            "employment_type": "parttime"
+        },
+        "2": {
+            "employment_type": "parttime"
+        },
+        "3": {
+            "employment_type": "parttime"
+        }
+    },
+    "_debug_day_totals": {
+        "Mon": 45,
+        "Tue": 45,
+        "Wed": 45,
+        "Thu": 45,
+        "Fri": 45
+    }
+}

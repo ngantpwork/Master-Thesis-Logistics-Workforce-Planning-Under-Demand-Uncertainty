@@ -1,0 +1,780 @@
+{
+  "id": "ae96a68b-0763-4916-a5dd-bd7b82dc7af7",
+  "parts": {
+    "1": {
+      "part_id": "1",
+      "supplier_id": "1",
+      "n_obs": 8,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.2686841408448211
+    },
+    "2": {
+      "part_id": "2",
+      "supplier_id": "1",
+      "n_obs": 4,
+      "k_obs": 0,
+      "deliveries": {},
+      "base_true_theta": 0.5042829014096016
+    },
+    "3": {
+      "part_id": "3",
+      "supplier_id": "1",
+      "n_obs": 20,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.29813848534419446
+    },
+    "4": {
+      "part_id": "4",
+      "supplier_id": "1",
+      "n_obs": 20,
+      "k_obs": 5,
+      "deliveries": {},
+      "base_true_theta": 0.2232138640746174
+    },
+    "5": {
+      "part_id": "5",
+      "supplier_id": "1",
+      "n_obs": 20,
+      "k_obs": 5,
+      "deliveries": {},
+      "base_true_theta": 0.34136484559689767
+    },
+    "6": {
+      "part_id": "6",
+      "supplier_id": "1",
+      "n_obs": 16,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.3675931768002248
+    },
+    "7": {
+      "part_id": "7",
+      "supplier_id": "2",
+      "n_obs": 20,
+      "k_obs": 10,
+      "deliveries": {},
+      "base_true_theta": 0.5816262982590067
+    },
+    "8": {
+      "part_id": "8",
+      "supplier_id": "2",
+      "n_obs": 20,
+      "k_obs": 11,
+      "deliveries": {},
+      "base_true_theta": 0.5345606044746526
+    },
+    "9": {
+      "part_id": "9",
+      "supplier_id": "2",
+      "n_obs": 4,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.6548674707806799
+    },
+    "10": {
+      "part_id": "10",
+      "supplier_id": "2",
+      "n_obs": 12,
+      "k_obs": 11,
+      "deliveries": {},
+      "base_true_theta": 0.6349949210805546
+    },
+    "11": {
+      "part_id": "11",
+      "supplier_id": "2",
+      "n_obs": 4,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.5670527459622664
+    },
+    "12": {
+      "part_id": "12",
+      "supplier_id": "2",
+      "n_obs": 20,
+      "k_obs": 11,
+      "deliveries": {},
+      "base_true_theta": 0.5201010788507474
+    },
+    "13": {
+      "part_id": "13",
+      "supplier_id": "3",
+      "n_obs": 4,
+      "k_obs": 1,
+      "deliveries": {},
+      "base_true_theta": 0.33949344182865693
+    },
+    "14": {
+      "part_id": "14",
+      "supplier_id": "3",
+      "n_obs": 4,
+      "k_obs": 1,
+      "deliveries": {},
+      "base_true_theta": 0.3514897365096695
+    },
+    "15": {
+      "part_id": "15",
+      "supplier_id": "3",
+      "n_obs": 20,
+      "k_obs": 7,
+      "deliveries": {},
+      "base_true_theta": 0.2362956782375021
+    },
+    "16": {
+      "part_id": "16",
+      "supplier_id": "3",
+      "n_obs": 4,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.36708257290312934
+    },
+    "17": {
+      "part_id": "17",
+      "supplier_id": "3",
+      "n_obs": 12,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.39378491736863735
+    },
+    "18": {
+      "part_id": "18",
+      "supplier_id": "3",
+      "n_obs": 20,
+      "k_obs": 9,
+      "deliveries": {},
+      "base_true_theta": 0.3459908163693363
+    },
+    "19": {
+      "part_id": "19",
+      "supplier_id": "3",
+      "n_obs": 16,
+      "k_obs": 8,
+      "deliveries": {},
+      "base_true_theta": 0.40803705530548656
+    },
+    "20": {
+      "part_id": "20",
+      "supplier_id": "4",
+      "n_obs": 8,
+      "k_obs": 1,
+      "deliveries": {},
+      "base_true_theta": 0.25052583453678196
+    },
+    "21": {
+      "part_id": "21",
+      "supplier_id": "4",
+      "n_obs": 4,
+      "k_obs": 1,
+      "deliveries": {},
+      "base_true_theta": 0.4131025224243741
+    },
+    "22": {
+      "part_id": "22",
+      "supplier_id": "4",
+      "n_obs": 8,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.21397208656043856
+    },
+    "23": {
+      "part_id": "23",
+      "supplier_id": "4",
+      "n_obs": 12,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.20070254816858948
+    },
+    "24": {
+      "part_id": "24",
+      "supplier_id": "4",
+      "n_obs": 12,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.2368302758126931
+    },
+    "25": {
+      "part_id": "25",
+      "supplier_id": "4",
+      "n_obs": 16,
+      "k_obs": 6,
+      "deliveries": {},
+      "base_true_theta": 0.25005340576746043
+    },
+    "26": {
+      "part_id": "26",
+      "supplier_id": "4",
+      "n_obs": 4,
+      "k_obs": 1,
+      "deliveries": {},
+      "base_true_theta": 0.318755461251901
+    },
+    "27": {
+      "part_id": "27",
+      "supplier_id": "5",
+      "n_obs": 12,
+      "k_obs": 5,
+      "deliveries": {},
+      "base_true_theta": 0.4288388020541274
+    },
+    "28": {
+      "part_id": "28",
+      "supplier_id": "5",
+      "n_obs": 8,
+      "k_obs": 1,
+      "deliveries": {},
+      "base_true_theta": 0.33252891616888336
+    },
+    "29": {
+      "part_id": "29",
+      "supplier_id": "5",
+      "n_obs": 20,
+      "k_obs": 8,
+      "deliveries": {},
+      "base_true_theta": 0.4272983843073045
+    },
+    "30": {
+      "part_id": "30",
+      "supplier_id": "5",
+      "n_obs": 8,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.3979389088195208
+    },
+    "31": {
+      "part_id": "31",
+      "supplier_id": "5",
+      "n_obs": 12,
+      "k_obs": 5,
+      "deliveries": {},
+      "base_true_theta": 0.31595949372326754
+    },
+    "32": {
+      "part_id": "32",
+      "supplier_id": "5",
+      "n_obs": 8,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.3611586038027931
+    },
+    "33": {
+      "part_id": "33",
+      "supplier_id": "5",
+      "n_obs": 4,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.4678836703454579
+    },
+    "34": {
+      "part_id": "34",
+      "supplier_id": "5",
+      "n_obs": 8,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.4082825764956364
+    },
+    "35": {
+      "part_id": "35",
+      "supplier_id": "6",
+      "n_obs": 4,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.5538863934946119
+    },
+    "36": {
+      "part_id": "36",
+      "supplier_id": "6",
+      "n_obs": 20,
+      "k_obs": 8,
+      "deliveries": {},
+      "base_true_theta": 0.3735737265834349
+    },
+    "37": {
+      "part_id": "37",
+      "supplier_id": "6",
+      "n_obs": 16,
+      "k_obs": 10,
+      "deliveries": {},
+      "base_true_theta": 0.4900293723679252
+    },
+    "38": {
+      "part_id": "38",
+      "supplier_id": "6",
+      "n_obs": 8,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.301606631554909
+    },
+    "39": {
+      "part_id": "39",
+      "supplier_id": "6",
+      "n_obs": 4,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.28285280127282614
+    },
+    "40": {
+      "part_id": "40",
+      "supplier_id": "6",
+      "n_obs": 8,
+      "k_obs": 6,
+      "deliveries": {},
+      "base_true_theta": 0.291268807603282
+    },
+    "41": {
+      "part_id": "41",
+      "supplier_id": "6",
+      "n_obs": 20,
+      "k_obs": 7,
+      "deliveries": {},
+      "base_true_theta": 0.3931469956682251
+    },
+    "42": {
+      "part_id": "42",
+      "supplier_id": "6",
+      "n_obs": 20,
+      "k_obs": 8,
+      "deliveries": {},
+      "base_true_theta": 0.3863065400375098
+    },
+    "43": {
+      "part_id": "43",
+      "supplier_id": "6",
+      "n_obs": 4,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.49688814101507855
+    },
+    "44": {
+      "part_id": "44",
+      "supplier_id": "7",
+      "n_obs": 12,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.3754294711848964
+    },
+    "45": {
+      "part_id": "45",
+      "supplier_id": "7",
+      "n_obs": 8,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.42239933390680334
+    },
+    "46": {
+      "part_id": "46",
+      "supplier_id": "7",
+      "n_obs": 16,
+      "k_obs": 8,
+      "deliveries": {},
+      "base_true_theta": 0.46976752503899677
+    },
+    "47": {
+      "part_id": "47",
+      "supplier_id": "7",
+      "n_obs": 4,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.5085414135841032
+    },
+    "48": {
+      "part_id": "48",
+      "supplier_id": "7",
+      "n_obs": 4,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.4860136613566768
+    },
+    "49": {
+      "part_id": "49",
+      "supplier_id": "7",
+      "n_obs": 20,
+      "k_obs": 10,
+      "deliveries": {},
+      "base_true_theta": 0.44263473650982577
+    },
+    "50": {
+      "part_id": "50",
+      "supplier_id": "7",
+      "n_obs": 20,
+      "k_obs": 10,
+      "deliveries": {},
+      "base_true_theta": 0.4548380516285444
+    },
+    "51": {
+      "part_id": "51",
+      "supplier_id": "7",
+      "n_obs": 8,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.46541754053306894
+    },
+    "52": {
+      "part_id": "52",
+      "supplier_id": "7",
+      "n_obs": 4,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.47861528620025867
+    },
+    "53": {
+      "part_id": "53",
+      "supplier_id": "7",
+      "n_obs": 8,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.40175132886151066
+    },
+    "54": {
+      "part_id": "54",
+      "supplier_id": "8",
+      "n_obs": 20,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.3852927896950559
+    },
+    "55": {
+      "part_id": "55",
+      "supplier_id": "8",
+      "n_obs": 16,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.3579254724133517
+    },
+    "56": {
+      "part_id": "56",
+      "supplier_id": "8",
+      "n_obs": 20,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.23099790137834783
+    },
+    "57": {
+      "part_id": "57",
+      "supplier_id": "8",
+      "n_obs": 16,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.3026811613838641
+    },
+    "58": {
+      "part_id": "58",
+      "supplier_id": "8",
+      "n_obs": 8,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.32982110980343476
+    },
+    "59": {
+      "part_id": "59",
+      "supplier_id": "8",
+      "n_obs": 16,
+      "k_obs": 3,
+      "deliveries": {},
+      "base_true_theta": 0.2616943704900993
+    },
+    "60": {
+      "part_id": "60",
+      "supplier_id": "8",
+      "n_obs": 12,
+      "k_obs": 6,
+      "deliveries": {},
+      "base_true_theta": 0.3004679394381267
+    },
+    "61": {
+      "part_id": "61",
+      "supplier_id": "8",
+      "n_obs": 8,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.40326553568676854
+    },
+    "62": {
+      "part_id": "62",
+      "supplier_id": "8",
+      "n_obs": 20,
+      "k_obs": 10,
+      "deliveries": {},
+      "base_true_theta": 0.4373332398885576
+    },
+    "63": {
+      "part_id": "63",
+      "supplier_id": "8",
+      "n_obs": 20,
+      "k_obs": 7,
+      "deliveries": {},
+      "base_true_theta": 0.36286821323963625
+    },
+    "64": {
+      "part_id": "64",
+      "supplier_id": "8",
+      "n_obs": 8,
+      "k_obs": 1,
+      "deliveries": {},
+      "base_true_theta": 0.3174059678824231
+    },
+    "65": {
+      "part_id": "65",
+      "supplier_id": "9",
+      "n_obs": 4,
+      "k_obs": 1,
+      "deliveries": {},
+      "base_true_theta": 0.47249518104815247
+    },
+    "66": {
+      "part_id": "66",
+      "supplier_id": "9",
+      "n_obs": 20,
+      "k_obs": 12,
+      "deliveries": {},
+      "base_true_theta": 0.5947996394344494
+    },
+    "67": {
+      "part_id": "67",
+      "supplier_id": "9",
+      "n_obs": 4,
+      "k_obs": 1,
+      "deliveries": {},
+      "base_true_theta": 0.48971286795514135
+    },
+    "68": {
+      "part_id": "68",
+      "supplier_id": "9",
+      "n_obs": 20,
+      "k_obs": 13,
+      "deliveries": {},
+      "base_true_theta": 0.48096823999376526
+    },
+    "69": {
+      "part_id": "69",
+      "supplier_id": "9",
+      "n_obs": 12,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.4973028084532992
+    },
+    "70": {
+      "part_id": "70",
+      "supplier_id": "9",
+      "n_obs": 4,
+      "k_obs": 2,
+      "deliveries": {},
+      "base_true_theta": 0.6313931186086451
+    },
+    "71": {
+      "part_id": "71",
+      "supplier_id": "9",
+      "n_obs": 12,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.5301930627388066
+    },
+    "72": {
+      "part_id": "72",
+      "supplier_id": "9",
+      "n_obs": 12,
+      "k_obs": 5,
+      "deliveries": {},
+      "base_true_theta": 0.5262009977846549
+    },
+    "73": {
+      "part_id": "73",
+      "supplier_id": "9",
+      "n_obs": 20,
+      "k_obs": 6,
+      "deliveries": {},
+      "base_true_theta": 0.4353378665187335
+    },
+    "74": {
+      "part_id": "74",
+      "supplier_id": "9",
+      "n_obs": 16,
+      "k_obs": 6,
+      "deliveries": {},
+      "base_true_theta": 0.4402798088308347
+    },
+    "75": {
+      "part_id": "75",
+      "supplier_id": "9",
+      "n_obs": 12,
+      "k_obs": 4,
+      "deliveries": {},
+      "base_true_theta": 0.39242032170227736
+    }
+  },
+  "rep_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+  ],
+  "prev_assignment": null,
+  "created_at": "2026-08-27T17:36:09",
+  "suppliers": {
+    "1": {
+      "supplier_id": "1",
+      "parts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "base_true_theta": 0.3306659521042436
+    },
+    "2": {
+      "supplier_id": "2",
+      "parts": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "base_true_theta": 0.5762076926885513
+    },
+    "3": {
+      "supplier_id": "3",
+      "parts": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "base_true_theta": 0.36895039571973737
+    },
+    "4": {
+      "supplier_id": "4",
+      "parts": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "base_true_theta": 0.283643069006873
+    },
+    "5": {
+      "supplier_id": "5",
+      "parts": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "base_true_theta": 0.403556232238335
+    },
+    "6": {
+      "supplier_id": "6",
+      "parts": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "base_true_theta": 0.44568352423313
+    },
+    "7": {
+      "supplier_id": "7",
+      "parts": [
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53"
+      ],
+      "base_true_theta": 0.41105819294117074
+    },
+    "8": {
+      "supplier_id": "8",
+      "parts": [
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64"
+      ],
+      "base_true_theta": 0.3502828456176421
+    },
+    "9": {
+      "supplier_id": "9",
+      "parts": [
+        "65",
+        "66",
+        "67",
+        "68",
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75"
+      ],
+      "base_true_theta": 0.4715385722553993
+    }
+  },
+  "dispatchers": {
+    "1": {
+      "dispatcher_id": "1",
+      "fte_factor": 0.72,
+      "target_workload": {
+        "Mon": 864.0,
+        "Tue": 864.0,
+        "Wed": 864.0,
+        "Thu": 864.0,
+        "Fri": 864.0
+      }
+    },
+    "2": {
+      "dispatcher_id": "2",
+      "fte_factor": 0.72,
+      "target_workload": {
+        "Mon": 864.0,
+        "Tue": 864.0,
+        "Wed": 864.0,
+        "Thu": 864.0,
+        "Fri": 864.0
+      }
+    },
+    "3": {
+      "dispatcher_id": "3",
+      "fte_factor": 0.72,
+      "target_workload": {
+        "Mon": 864.0,
+        "Tue": 864.0,
+        "Wed": 864.0,
+        "Thu": 864.0,
+        "Fri": 864.0
+      }
+    }
+  }
+}

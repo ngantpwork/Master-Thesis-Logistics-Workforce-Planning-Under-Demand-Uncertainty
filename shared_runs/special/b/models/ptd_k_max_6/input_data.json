@@ -1,0 +1,732 @@
+{
+  "id": "da343487-41e8-4cd9-8efb-0ad08b9b2a5a",
+  "parts": {
+    "1": {
+      "part_id": "1",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "2": {
+      "part_id": "2",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "3": {
+      "part_id": "3",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "4": {
+      "part_id": "4",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "5": {
+      "part_id": "5",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "6": {
+      "part_id": "6",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "7": {
+      "part_id": "7",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "8": {
+      "part_id": "8",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "9": {
+      "part_id": "9",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "10": {
+      "part_id": "10",
+      "supplier_id": "1",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "11": {
+      "part_id": "11",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "12": {
+      "part_id": "12",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "13": {
+      "part_id": "13",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "14": {
+      "part_id": "14",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "15": {
+      "part_id": "15",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "16": {
+      "part_id": "16",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "17": {
+      "part_id": "17",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "18": {
+      "part_id": "18",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "19": {
+      "part_id": "19",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "20": {
+      "part_id": "20",
+      "supplier_id": "2",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "21": {
+      "part_id": "21",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "22": {
+      "part_id": "22",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "23": {
+      "part_id": "23",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "24": {
+      "part_id": "24",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "25": {
+      "part_id": "25",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "26": {
+      "part_id": "26",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "27": {
+      "part_id": "27",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "28": {
+      "part_id": "28",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "29": {
+      "part_id": "29",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "30": {
+      "part_id": "30",
+      "supplier_id": "3",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "31": {
+      "part_id": "31",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "32": {
+      "part_id": "32",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "33": {
+      "part_id": "33",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "34": {
+      "part_id": "34",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "35": {
+      "part_id": "35",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "36": {
+      "part_id": "36",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "37": {
+      "part_id": "37",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "38": {
+      "part_id": "38",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "39": {
+      "part_id": "39",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "40": {
+      "part_id": "40",
+      "supplier_id": "4",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "41": {
+      "part_id": "41",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "42": {
+      "part_id": "42",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "43": {
+      "part_id": "43",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "44": {
+      "part_id": "44",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "45": {
+      "part_id": "45",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "46": {
+      "part_id": "46",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "47": {
+      "part_id": "47",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "48": {
+      "part_id": "48",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "49": {
+      "part_id": "49",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "50": {
+      "part_id": "50",
+      "supplier_id": "5",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "51": {
+      "part_id": "51",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "52": {
+      "part_id": "52",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "53": {
+      "part_id": "53",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "54": {
+      "part_id": "54",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "55": {
+      "part_id": "55",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "56": {
+      "part_id": "56",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "57": {
+      "part_id": "57",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "58": {
+      "part_id": "58",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "59": {
+      "part_id": "59",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    },
+    "60": {
+      "part_id": "60",
+      "supplier_id": "6",
+      "n_obs": -1,
+      "k_obs": -1,
+      "deliveries": {},
+      "base_true_theta": 0.3
+    }
+  },
+  "suppliers_prev": {
+    "1": {
+      "supplier_id": "1",
+      "parts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "base_true_theta": -1.0
+    },
+    "2": {
+      "supplier_id": "2",
+      "parts": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "base_true_theta": -1.0
+    },
+    "3": {
+      "supplier_id": "3",
+      "parts": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "base_true_theta": -1.0
+    },
+    "4": {
+      "supplier_id": "4",
+      "parts": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "base_true_theta": -1.0
+    },
+    "5": {
+      "supplier_id": "5",
+      "parts": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+      ],
+      "base_true_theta": -1.0
+    },
+    "6": {
+      "supplier_id": "6",
+      "parts": [
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60"
+      ],
+      "base_true_theta": -1.0
+    }
+  },
+  "suppliers_next": {
+    "1": {
+      "supplier_id": "1",
+      "parts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "base_true_theta": -1.0
+    },
+    "2": {
+      "supplier_id": "2",
+      "parts": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "base_true_theta": -1.0
+    },
+    "3": {
+      "supplier_id": "3",
+      "parts": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "base_true_theta": -1.0
+    },
+    "4": {
+      "supplier_id": "4",
+      "parts": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "base_true_theta": -1.0
+    },
+    "5": {
+      "supplier_id": "5",
+      "parts": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+      ],
+      "base_true_theta": -1.0
+    },
+    "6": {
+      "supplier_id": "6",
+      "parts": [
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60"
+      ],
+      "base_true_theta": -1.0
+    }
+  },
+  "dispatchers_prev": {
+    "1": {
+      "dispatcher_id": "1",
+      "fte_factor": 0.15,
+      "target_workload": {
+        "Mon": 180.0
+      }
+    },
+    "2": {
+      "dispatcher_id": "2",
+      "fte_factor": 0.15,
+      "target_workload": {
+        "Mon": 180.0
+      }
+    },
+    "3": {
+      "dispatcher_id": "3",
+      "fte_factor": 0.15,
+      "target_workload": {
+        "Mon": 180.0
+      }
+    }
+  },
+  "dispatchers_next": {
+    "1": {
+      "dispatcher_id": "1",
+      "fte_factor": 0.15,
+      "target_workload": {
+        "Mon": 180.0
+      }
+    },
+    "2": {
+      "dispatcher_id": "2",
+      "fte_factor": 0.15,
+      "target_workload": {
+        "Mon": 180.0
+      }
+    },
+    "3": {
+      "dispatcher_id": "3",
+      "fte_factor": 0.15,
+      "target_workload": {
+        "Mon": 180.0
+      }
+    }
+  },
+  "rep_days": [
+    "Mon"
+  ],
+  "prev_assignment": null,
+  "created_at": "2026-08-28T15:47:34"
+}

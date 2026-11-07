@@ -1,0 +1,9 @@
+,feature,group,mean_Split_in_top3,precision_at_3
+0,mean_workload,Split,0.7777777777777778,0.2592592592592593
+1,peak_workload,Split,0.7777777777777778,0.2592592592592593
+2,day_share_on_peak,Split,0.7777777777777778,0.2592592592592593
+3,num_parts,Split,0.6666666666666666,0.2222222222222222
+4,cv_weekday,Split,0.1111111111111111,0.037037037037037035
+5,peak_to_avg_ratio,Split,0.0,0.0
+6,largest_part_share,Split,0.0,0.0
+7,peak_day_largest_part_share,Split,0.0,0.0

@@ -1,0 +1,9 @@
+,feature,Split,NotSplit
+0,mean_workload_pct,1.0,0.5
+1,peak_workload_pct,1.0,0.5
+2,peak_to_avg_ratio_pct,0.2222222222222222,0.5555555555555556
+3,cv_weekday_pct,0.2222222222222222,0.5555555555555556
+4,day_share_on_peak_pct,1.0,0.5
+5,num_parts_pct,0.9444444444444444,0.4722222222222222
+6,largest_part_share_pct,0.1111111111111111,0.6111111111111112
+7,peak_day_largest_part_share_pct,0.1111111111111111,0.5555555555555556

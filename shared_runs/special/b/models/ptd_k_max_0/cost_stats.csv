@@ -1,0 +1,4 @@
+cost_component,mean,std,p5,p50,p95,min,max
+coord_cost,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+deviation_raw,28.8,21.6,0.0,30.0,60.0,0.0,60.0
+total_raw,28.8,21.6,0.0,30.0,60.0,0.0,60.0

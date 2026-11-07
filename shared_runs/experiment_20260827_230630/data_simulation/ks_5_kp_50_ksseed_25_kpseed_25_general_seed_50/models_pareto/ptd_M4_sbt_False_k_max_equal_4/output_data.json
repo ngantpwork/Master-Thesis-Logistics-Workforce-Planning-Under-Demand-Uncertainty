@@ -1,0 +1,376 @@
+{
+  "run_id": "4a53fd00-1460-49e7-bdf1-36dd762b6d82",
+  "assignment": {
+    "1": [
+      "6",
+      "1",
+      "5"
+    ],
+    "2": [
+      "8",
+      "3",
+      "2"
+    ],
+    "3": [
+      "7",
+      "4",
+      "9"
+    ]
+  },
+  "assignment_type": "part_to_dispatcher",
+  "solve_time": 3600.088924407959,
+  "status": 9,
+  "create_at": "2026-08-28T18:28:31",
+  "part_assignment": {
+    "1": [
+      {
+        "part_id": "35",
+        "supplier_id": "6"
+      },
+      {
+        "part_id": "64",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "44",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "6",
+        "supplier_id": "1"
+      },
+      {
+        "part_id": "62",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "33",
+        "supplier_id": "5"
+      },
+      {
+        "part_id": "31",
+        "supplier_id": "5"
+      },
+      {
+        "part_id": "2",
+        "supplier_id": "1"
+      },
+      {
+        "part_id": "28",
+        "supplier_id": "5"
+      },
+      {
+        "part_id": "56",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "3",
+        "supplier_id": "1"
+      },
+      {
+        "part_id": "63",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "42",
+        "supplier_id": "6"
+      },
+      {
+        "part_id": "45",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "1",
+        "supplier_id": "1"
+      },
+      {
+        "part_id": "4",
+        "supplier_id": "1"
+      },
+      {
+        "part_id": "40",
+        "supplier_id": "6"
+      },
+      {
+        "part_id": "52",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "61",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "5",
+        "supplier_id": "1"
+      },
+      {
+        "part_id": "55",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "60",
+        "supplier_id": "8"
+      }
+    ],
+    "2": [
+      {
+        "part_id": "54",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "48",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "14",
+        "supplier_id": "3"
+      },
+      {
+        "part_id": "19",
+        "supplier_id": "3"
+      },
+      {
+        "part_id": "11",
+        "supplier_id": "2"
+      },
+      {
+        "part_id": "37",
+        "supplier_id": "6"
+      },
+      {
+        "part_id": "39",
+        "supplier_id": "6"
+      },
+      {
+        "part_id": "50",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "15",
+        "supplier_id": "3"
+      },
+      {
+        "part_id": "38",
+        "supplier_id": "6"
+      },
+      {
+        "part_id": "27",
+        "supplier_id": "5"
+      },
+      {
+        "part_id": "13",
+        "supplier_id": "3"
+      },
+      {
+        "part_id": "43",
+        "supplier_id": "6"
+      },
+      {
+        "part_id": "12",
+        "supplier_id": "2"
+      },
+      {
+        "part_id": "7",
+        "supplier_id": "2"
+      },
+      {
+        "part_id": "46",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "17",
+        "supplier_id": "3"
+      },
+      {
+        "part_id": "30",
+        "supplier_id": "5"
+      },
+      {
+        "part_id": "16",
+        "supplier_id": "3"
+      },
+      {
+        "part_id": "10",
+        "supplier_id": "2"
+      },
+      {
+        "part_id": "32",
+        "supplier_id": "5"
+      },
+      {
+        "part_id": "8",
+        "supplier_id": "2"
+      },
+      {
+        "part_id": "18",
+        "supplier_id": "3"
+      },
+      {
+        "part_id": "47",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "9",
+        "supplier_id": "2"
+      }
+    ],
+    "3": [
+      {
+        "part_id": "53",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "41",
+        "supplier_id": "6"
+      },
+      {
+        "part_id": "22",
+        "supplier_id": "4"
+      },
+      {
+        "part_id": "36",
+        "supplier_id": "6"
+      },
+      {
+        "part_id": "57",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "72",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "24",
+        "supplier_id": "4"
+      },
+      {
+        "part_id": "21",
+        "supplier_id": "4"
+      },
+      {
+        "part_id": "29",
+        "supplier_id": "5"
+      },
+      {
+        "part_id": "25",
+        "supplier_id": "4"
+      },
+      {
+        "part_id": "49",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "65",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "69",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "68",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "59",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "75",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "71",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "51",
+        "supplier_id": "7"
+      },
+      {
+        "part_id": "73",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "20",
+        "supplier_id": "4"
+      },
+      {
+        "part_id": "67",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "74",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "58",
+        "supplier_id": "8"
+      },
+      {
+        "part_id": "34",
+        "supplier_id": "5"
+      },
+      {
+        "part_id": "23",
+        "supplier_id": "4"
+      },
+      {
+        "part_id": "26",
+        "supplier_id": "4"
+      },
+      {
+        "part_id": "70",
+        "supplier_id": "9"
+      },
+      {
+        "part_id": "66",
+        "supplier_id": "9"
+      }
+    ]
+  },
+  "reassigned": null,
+  "objective_value": 719.3400000000013,
+  "mip_gap": 0.10784104612129944,
+  "workload_stats": {
+    "2": {
+      "Mon": 665.82,
+      "Tue": 762.36,
+      "Wed": 725.22,
+      "Thu": 747.48,
+      "Fri": 683.04
+    },
+    "3": {
+      "Mon": 664.44,
+      "Tue": 735.66,
+      "Wed": 736.98,
+      "Thu": 762.54,
+      "Fri": 709.14
+    },
+    "1": {
+      "Mon": 675.84,
+      "Tue": 741.54,
+      "Wed": 733.68,
+      "Thu": 755.52,
+      "Fri": 700.74
+    }
+  },
+  "avg_spike": null,
+  "W_targets": {
+    "2|Mon": 720.0,
+    "2|Tue": 720.0,
+    "2|Wed": 720.0,
+    "2|Thu": 720.0,
+    "2|Fri": 720.0,
+    "3|Mon": 720.0,
+    "3|Tue": 720.0,
+    "3|Wed": 720.0,
+    "3|Thu": 720.0,
+    "3|Fri": 720.0,
+    "1|Mon": 720.0,
+    "1|Tue": 720.0,
+    "1|Wed": 720.0,
+    "1|Thu": 720.0,
+    "1|Fri": 720.0
+  }
+}

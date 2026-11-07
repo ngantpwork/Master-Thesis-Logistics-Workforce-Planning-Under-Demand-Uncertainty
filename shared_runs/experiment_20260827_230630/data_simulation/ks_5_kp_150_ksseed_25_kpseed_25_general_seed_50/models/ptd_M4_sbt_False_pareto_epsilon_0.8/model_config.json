@@ -1,0 +1,14 @@
+{
+  "rng_seed": 42,
+  "time_limit": 3600,
+  "mip_gap": 0.01,
+  "cost_deviation": 1.0,
+  "cost_coord": 1.0,
+  "k_max": 10,
+  "pareto_mode": true,
+  "max_deviation_objective": 890.0160000000019,
+  "use_scenario_based_target": false,
+  "use_coord_in_objective": true,
+  "n_split_exact": false,
+  "use_underload_penalty": false
+}

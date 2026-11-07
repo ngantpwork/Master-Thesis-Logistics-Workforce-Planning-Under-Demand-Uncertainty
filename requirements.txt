@@ -1,0 +1,5 @@
+gurobipy==13.0.1
+PyYAML==6.0.3
+numpy
+matplotlib
+scipy
